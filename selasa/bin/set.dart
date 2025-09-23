@@ -8,5 +8,5 @@ void main() {
   angka.clear(); //menghapus angka
   print(angka);
   print(angka.runtimeType); //mengecek tipe data apa yang di gunakan
-  print(angka.toList().runtimeType);
+  print(angka.toList().runtimeType); //mengubah tipe data
 }
